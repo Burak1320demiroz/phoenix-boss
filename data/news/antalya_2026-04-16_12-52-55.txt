@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.antalyaekspres.com.tr/dogu-garaji-kultur-ve-ticaret-merkezi-sehir-tiyatrolari-iklimlendirme-isi",
+    "description": "",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/ttiyatroo.jpg",
+    "name": "DOĞU GARAJI KÜLTÜR VE TİCARET MERKEZİ ŞEHİR TİYATROLARI İKLİMLENDİRME İŞİ",
+    "source": "antalya"
+  },
+  {
+    "key": "1",
+    "url": "https://www.antalyaekspres.com.tr/antalyada-gozaltilar",
+    "description": "Antalya'da, İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu'nun tutuklanmasını protesto eden göstericiler ile polis arasında gerginlik yaşandı. Havai fişek atan göstericilere müdahale eden çevik kuvvet ekipleri, bazı kişileri gözaltına aldı",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/a-n-t-a-l-y-a-d-a-i-m-a-m-o-g-l-u-g-e-r-g-i-n-l-i-g-i-g-o-z-a-l-t-625347-185194.jpg",
+    "name": "Antalya'da gözaltılar",
+    "source": "antalya"
+  },
+  {
+    "key": "2",
+    "url": "https://www.antalyaekspres.com.tr/mansur-yavas-20-milyon-cikacak",
+    "description": "Ankara Büyükşehir Belediye (ABB) Başkanı Mansur Yavaş, 'Sanırım 20 milyon civarında çıkacak. 20 milyon civarında insan zorunlu olmadığı bir sandıkta oy kullanıyorsa erken seçimin zamanı çoktan gelmiştir' dedi",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/resized-7c0fb-bd14137b219891.png",
+    "name": "Mansur Yavaş: 20 milyon çıkacak",
+    "source": "antalya"
+  },
+  {
+    "key": "3",
+    "url": "https://www.antalyaekspres.com.tr/abd-ve-ukrayna-arasindaki-gorusmeler-basladi",
+    "description": "Rusya-Ukrayna savaşını sona erdirmek üzere ABD ve Ukrayna arasındaki görüşmeler Suudi Arabistan’da başladı",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/riy.jpg",
+    "name": "ABD ve Ukrayna arasındaki görüşmeler başladı",
+    "source": "antalya"
+  },
+  {
+    "key": "4",
+    "url": "https://www.antalyaekspres.com.tr/turkiye-a-liginde",
+    "description": "A Milli Futbol Takımı, UEFA Uluslar Ligi play-off turu rövanşında deplasmanda Macaristan’ı 3-0 mağlup etti. İlk maçı da 3-1 kazanan ay-yıldızlılar, A Ligi’ne yükseldi",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/ic-5.jpg",
+    "name": "Türkiye A Ligi'nde",
+    "source": "antalya"
+  },
+  {
+    "key": "5",
+    "url": "https://www.antalyaekspres.com.tr/mimar-sinan-kongre-merkezinde-ataturk-heyecani",
+    "description": "CHP’nin Cumhurbaşkanı adaylığı için düzenlediği seçimlerinde ilginç bir an yaşandı. Mimar Sinan Kongre Merkezi’nde oy kullanmaya gelen bir vatandaş, Atatürk’e olan benzerliğiyle büyük ilgi gördü. Seçmenler, şaşkınlıkla karışık hayranlıkla fotoğraf çektirmek için sıraya girdi",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/whatsapp-gorsel-2025-03-23-saat-175211-69b6c79e-1.jpg",
+    "name": "Mimar Sinan Kongre Merkezi’nde ‘Atatürk’ heyecanı",
+    "source": "antalya"
+  },
+  {
+    "key": "6",
+    "url": "https://www.antalyaekspres.com.tr/kanada-erken-secime-gidiyor",
+    "description": "Kanada Başbakanı Mark Carney, 28 Nisan’da erken seçime gidileceğini duyurdu",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/canah.jpg",
+    "name": "Kanada erken seçime gidiyor",
+    "source": "antalya"
+  },
+  {
+    "key": "7",
+    "url": "https://www.antalyaekspres.com.tr/antalyada-mhpden-iftar",
+    "description": "Milliyetçi Hareket Partisi (MHP) Antalya İl Başkanlığı tarafından düzenlenen iftar programında yüzlerce kişi bir araya geldi",
+    "image": "https://antalyaeksprescomtr.teimg.com/crop/1280x720/antalyaekspres-com-tr/uploads/2025/03/a-w418671-04.jpg",
+    "name": "Antalya'da MHP'den iftar",
+    "source": "antalya"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.konyaolay.com/uyusturucu-operasyonunda-3-tutuklama/16566/",
+    "description": "Konya'nın Akşehir ilçesinde düzenlenen uyuşturucu operasyonunda 3 kişi tutuklandı.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/uyusturucu-operasyonunda-3-tutuklama-161.jpg",
+    "name": "Uyuşturucu operasyonunda 3 tutuklama",
+    "source": "konya"
+  },
+  {
+    "key": "1",
+    "url": "https://www.konyaolay.com/sehit-polis-memuru-emrah-buke-nin-eregli-de-ismi-o-parkta-yasayacak/16565/",
+    "description": "İstanbul’da görevi esnasında geçirdiği trafik kazası sonucu şehit olan Ereğlili Polis Memuru Emrah Büke’nin ismi; daha önce Ereğli Belediyesi tarafından peyzajı tamamlanan Gülbahçe Mahallesi Rasim Erel Caddesi Yeni Halk Kütüphanesi önündeki parkta yaşayacak.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/sehit-polis-memuru-emrah-buke-nin-eregli-de-ismi-o-parkta-yasayacak-7747.jpg",
+    "name": "Şehit Polis Memuru Emrah Büke’nin Ereğli'de ismi o parkta yaşayacak",
+    "source": "konya"
+  },
+  {
+    "key": "2",
+    "url": "https://www.konyaolay.com/ikmib-in-yeni-baskani-vefa-ibrahim-araci-oldu/16564/",
+    "description": "Türkiye ihracatının ikinci büyük sektörü olan kimyada başkanlık değişimiyle birlikte yeni bir süreç başladı.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/ikmib-in-yeni-baskani-vefa-ibrahim-araci-oldu-1959.jpg",
+    "name": "İKMİB’in yeni başkanı Vefa İbrahim Aracı oldu",
+    "source": "konya"
+  },
+  {
+    "key": "3",
+    "url": "https://www.konyaolay.com/haydar-bas-konya-da-dualarla-anildi/16563/",
+    "description": "Bağımsız Türkiye Partisinin Kurucu Genel Başkanı Prof. Dr. Haydar Baş’ın vefatının 6. Yıldönümü nedeniyle Konya'da bir anma programı düzenlendi.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/haydar-bas-konya-da-dualarla-anildi-130_1.jpg",
+    "name": "Haydar Baş, Konya’da dualarla anıldı",
+    "source": "konya"
+  },
+  {
+    "key": "4",
+    "url": "https://www.konyaolay.com/gol-de-kacak-avciliga-gecit-yok/16561/",
+    "description": "Konya'da Suğla Gölü'nde yapılan denetimlerde ele geçirilen 800 metrelik ağ imha edilirken, yüzlerce balık yeniden suya bırakıldı.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/gol-de-kacak-avciliga-gecit-yok-8606.jpg",
+    "name": "Göl'de kaçak avcılığa geçit yok",
+    "source": "konya"
+  },
+  {
+    "key": "5",
+    "url": "https://www.konyaolay.com/yeniden-refah-konya-il-baskani-ndan-trafik-cezalari-tepkisi/16562/",
+    "description": "Yeniden Refah Partisi Konya İl Başkanı Hasan Yel, “Trafik cezaları kamu düzenini sağlamaktan çıktı, mali kaynak üretme yöntemine dönüştü” ifadelerini kullandı.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/yeniden-refah-konya-il-baskani-ndan-trafik-cezalari-tepkisi-3355_1.jpg",
+    "name": "Yeniden Refah Konya İl Başkanı'ndan trafik cezaları tepkisi",
+    "source": "konya"
+  },
+  {
+    "key": "6",
+    "url": "https://www.konyaolay.com/eregli-de-bicakla-yaralama/16560/",
+    "description": "Konya'nın Ereğli ilçesinde bir kişi uğradığı bıçaklı saldırı sonucu yaralandı. Polis ekiplerinin saldırganı yakalamak için başlattığı çalışma sürüyor.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/eregli-de-bicakla-yaralama-7286.jpg",
+    "name": "Ereğli'de bıçakla yaralama",
+    "source": "konya"
+  },
+  {
+    "key": "7",
+    "url": "https://www.konyaolay.com/mekpan-panel-e-cayirova-otomotiv-den-anlamli-ziyaret/16559/",
+    "description": "Mekpan Panel A.Ş. Yönetim Kurulu Başkanı Celalettin Hakan Katırcı’yı ziyaret eden Çayırova Otomotiv Sanayi ve Ticaret A.Ş. Yönetim Kurulu Başkanı Niyazi Büyükgıcık, Mekpan Panel’in faaliyetleri ve sektöre yönelik çalışmaları hakkında kapsamlı bilgi aldı.",
+    "image": "https://www.konyaolay.com/images/haberler/2026/04/mekpan-panel-e-cayirova-otomotiv-den-anlamli-ziyaret-321.jpg",
+    "name": "Mekpan Panel’e, Çayırova Otomotiv’den anlamlı ziyaret",
+    "source": "konya"
+  }
+]

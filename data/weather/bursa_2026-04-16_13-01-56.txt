@@ -1,0 +1,86 @@
+[
+  {
+    "date": "4/16/2026",
+    "day": "Perşembe",
+    "icon": "https://cdnydm.com/collectapi/weather/04d.png",
+    "description": "kapalı",
+    "status": "Clouds",
+    "degree": "17.58",
+    "min": "6.59",
+    "max": "17.66",
+    "night": "8.63",
+    "humidity": "48.00"
+  },
+  {
+    "date": "4/17/2026",
+    "day": "Cuma",
+    "icon": "https://cdnydm.com/collectapi/weather/10d.png",
+    "description": "hafif yağmur",
+    "status": "Rain",
+    "degree": "19.22",
+    "min": "5.80",
+    "max": "20.20",
+    "night": "11.12",
+    "humidity": "48.00"
+  },
+  {
+    "date": "4/18/2026",
+    "day": "Cumartesi",
+    "icon": "https://cdnydm.com/collectapi/weather/10d.png",
+    "description": "orta şiddetli yağmur",
+    "status": "Rain",
+    "degree": "9.53",
+    "min": "7.04",
+    "max": "10.92",
+    "night": "8.38",
+    "humidity": "67.00"
+  },
+  {
+    "date": "4/19/2026",
+    "day": "Pazar",
+    "icon": "https://cdnydm.com/collectapi/weather/03d.png",
+    "description": "parçalı az bulutlu",
+    "status": "Clouds",
+    "degree": "13.78",
+    "min": "5.68",
+    "max": "14.02",
+    "night": "7.77",
+    "humidity": "51.00"
+  },
+  {
+    "date": "4/20/2026",
+    "day": "Pazartesi",
+    "icon": "https://cdnydm.com/collectapi/weather/01d.png",
+    "description": "açık",
+    "status": "Clear",
+    "degree": "14.88",
+    "min": "4.99",
+    "max": "17.05",
+    "night": "9.85",
+    "humidity": "41.00"
+  },
+  {
+    "date": "4/21/2026",
+    "day": "Salı",
+    "icon": "https://cdnydm.com/collectapi/weather/04d.png",
+    "description": "kapalı",
+    "status": "Clouds",
+    "degree": "18.47",
+    "min": "8.49",
+    "max": "20.45",
+    "night": "13.88",
+    "humidity": "33.00"
+  },
+  {
+    "date": "4/22/2026",
+    "day": "Çarşamba",
+    "icon": "https://cdnydm.com/collectapi/weather/10d.png",
+    "description": "hafif yağmur",
+    "status": "Rain",
+    "degree": "16.54",
+    "min": "10.27",
+    "max": "16.54",
+    "night": "10.27",
+    "humidity": "59.00"
+  }
+]

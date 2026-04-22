@@ -1,0 +1,56 @@
+[
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-17T17:00:00+03:00",
+    "away": "Tümosan Konyaspor",
+    "home": "Hesap.com Antalyaspor"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-17T17:00:00+03:00",
+    "away": "Çaykur Rizespor",
+    "home": "Fenerbahçe"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-18T11:30:00+03:00",
+    "away": "ikas Eyüpspor",
+    "home": "Mısırlı.com.tr Fatih Karagümrük"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-18T14:00:00+03:00",
+    "away": "Göztepe",
+    "home": "Kocaelispor"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-18T17:00:00+03:00",
+    "away": "Galatasaray",
+    "home": "Natura Dünyası Gençlerbirliği"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-19T11:30:00+03:00",
+    "away": "Corendon Alanyaspor",
+    "home": "Kasımpaşa"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-19T14:00:00+03:00",
+    "away": "Beşiktaş",
+    "home": "Samsunspor"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-19T17:00:00+03:00",
+    "away": "Rams Başakşehir",
+    "home": "Trabzonspor"
+  },
+  {
+    "skor": "undefined-undefined",
+    "date": "2026-04-20T17:00:00+03:00",
+    "away": "Zecorner Kayserispor",
+    "home": "Gaziantep FK"
+  }
+]

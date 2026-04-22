@@ -1,0 +1,74 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.haberturk.com/18-turkiye-yatirim-konferansi-new-york-ta-duzenlendi-3877865-ekonomi",
+    "description": "Hazine ve Maliye Bakanı Mehmet Şimşek ile Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, 18. Türkiye Yatırım Konferansı'nda ABD'nin önemli finans çevreleri ve iş dünyası temsilcileriyle bir araya geldi",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776345632/3877865/jpg/1280x1280",
+    "name": "18. Türkiye Yatırım Konferansı New York'ta düzenlendi",
+    "source": "Habertürk",
+    "date": "2026-04-16T14:22:26.819Z"
+  },
+  {
+    "key": "1",
+    "url": "https://www.haberturk.com/magdeburger-sigorta-nin-faaliyetleri-durduruldu-3877790-ekonomi",
+    "description": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), Magdeburger Sigorta AŞ'nin tüm branşlarda yeni sigorta poliçesi düzenleme ve yenileme yetkisinin sermaye yeterlilik koşulları sağlanıncaya kadar geçici olarak durdurulduğunu bildirdi",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776328256/3877790/jpg/1280x1280",
+    "name": "Magdeburger Sigorta'nın faaliyetleri durduruldu",
+    "source": "Habertürk",
+    "date": "2026-04-16T09:23:53.909Z"
+  },
+  {
+    "key": "2",
+    "url": "https://www.haberturk.com/uberden-10-milyar-dolarlik-robotaksi-hamlesi-3877794-ekonomi",
+    "description": "Uber, otonom araç pazarında rekabet gücünü artırmak için 10 milyar doları aşan yatırım planını devreye alıyor. Şirket, 2028’e kadar en az 28 şehirde robotaksi hizmeti sunmayı hedeflerken, sektörün önde gelen oyuncularıyla iş birliklerini genişletmeyi hedefliyor",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776328435/3877794/jpg/1280x1280",
+    "name": "10 milyar dolarlık robotaksi planı",
+    "source": "Habertürk",
+    "date": "2026-04-16T09:23:52.013Z"
+  },
+  {
+    "key": "3",
+    "url": "https://www.haberturk.com/dolar-bazinda-zirveye-donus-3877762-ekonomi",
+    "description": "Dolar bazında konut fiyatları Türkiye ortalamasında, İstanbul'da ve İzmir'de tarihi zirvesine yaklaşıyor. Fiyatlar, TL bazında enflasyonun altında artsa da dolar bazında yükseliş trendini sürdürüyor. Ankara'da ise son 6 çeyreğin tamamında dolar bazında rekor kırılıyor. Kiralara bakıldığında ise hem Türkiye ortalaması hem de 3 büyük şehir rekor üstüne rekor yeniliyor. Habertürk Ekonomi'den Ahmet Hamdi Girgin'in haberi...",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776327611/3877762/jpg/1280x1280",
+    "name": "Dolar bazında zirveye dönüş",
+    "source": "Habertürk",
+    "date": "2026-04-16T09:23:50.308Z"
+  },
+  {
+    "key": "4",
+    "url": "https://www.haberturk.com/sifir-atik-yaklasimi-ekonomik-istikrar-icin-stratejik-zorunluluk-3877766-ekonomi",
+    "description": "COP31 Yüksek Düzeyli İklim Şampiyonu Samed Ağırbaş, sıfır atık yaklaşımının ekonomik istikrar için stratejik bir zorunluluk olduğunu vurgularken, Emine Erdoğan’ın liderliğinde küresel bir harekete dönüşen Sıfır Atık vizyonunu uluslararası finans çevrelerine anlattı ve iklim eyleminin finansal sistemle entegre edilmesi gerektiğini belirtti.",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776325118/3877766/jpg/1280x1280",
+    "name": "\"Sıfır Atık yaklaşımı stratejik zorunluluk\"",
+    "source": "Habertürk",
+    "date": "2026-04-16T08:23:15.704Z"
+  },
+  {
+    "key": "5",
+    "url": "https://www.haberturk.com/dunyada-ilk-yuze-girdi-iea-baskani-birol-yeniden-time-in-listesinde-insanligin-iyiligi-icin-kuresel--3877768-ekonomi",
+    "description": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, ikinci kez Time dergisi'nin 'dünyanın en etkili 100 ismi' arasında gösterildi. Birol, 'Biz veri odaklı bir kuruluşuz, petrolden doğalgaza, şebekelerden kritik minerallere kadar tüm yakıtları ve tüm teknolojileri kapsıyoruz ve insanlığın iyiliği için küresel enerji dönüşümüne liderlik etmeye kararlıyız' dedi",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776325373/3877768/jpg/1280x1280",
+    "name": "Dünyada ilk yüze girdi",
+    "source": "Habertürk",
+    "date": "2026-04-16T08:23:14.518Z"
+  },
+  {
+    "key": "6",
+    "url": "https://www.haberturk.com/dogal-gaz-ithalatinda-dusus-3877728-ekonomi",
+    "description": "Türkiye'nin doğal gaz ithalatı, şubatta geçen yılın aynı ayına göre yüzde 19,34 azalarak yaklaşık 5 milyar 259 milyon metreküp oldu",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776321694/3877728/jpg/1280x1280",
+    "name": "Doğal gaz ithalatında düşüş",
+    "source": "Habertürk",
+    "date": "2026-04-16T07:44:19.814Z"
+  },
+  {
+    "key": "7",
+    "url": "https://www.haberturk.com/imf-baskanindan-petrol-fiyati-uyarisi-3877734-ekonomi",
+    "description": "Uluslararası Para Fonu (IMF) Başkanı Kristalina Georgieva, Orta Doğu'daki çatışmaların devam etmesi ve petrol fiyatlarının yüksek seviyelerde kalması durumunda, küresel ekonominin zorlu bir dönemle karşı karşıya kalacağı konusunda uyardı",
+    "image": "https://im.haberturk.com/l/2026/04/16/ver1776322175/3877734/jpg/1280x1280",
+    "name": "IMF Başkanından 'petrol fiyatı' uyarısı",
+    "source": "Habertürk",
+    "date": "2026-04-16T07:44:17.551Z"
+  }
+]

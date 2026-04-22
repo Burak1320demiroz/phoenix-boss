@@ -1,0 +1,26 @@
+[
+  {
+    "vakit": "İmsak",
+    "saat": "04:47"
+  },
+  {
+    "vakit": "Güneş",
+    "saat": "06:18"
+  },
+  {
+    "vakit": "Öğle",
+    "saat": "13:09"
+  },
+  {
+    "vakit": "İkindi",
+    "saat": "16:51"
+  },
+  {
+    "vakit": "Akşam",
+    "saat": "19:50"
+  },
+  {
+    "vakit": "Yatsı",
+    "saat": "21:14"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "rate": 137.0536609,
+    "calculatedstr": "1370.54",
+    "calculated": 1370.54
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "rate": 0.14147769999999998,
+    "calculatedstr": "1.41",
+    "calculated": 1.41
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini Dinar",
+    "rate": 0.0376,
+    "calculatedstr": "0.38",
+    "calculated": 0.38
+  },
+  {
+    "code": "BWP",
+    "name": "Botswana Pula",
+    "rate": 1.344995,
+    "calculatedstr": "13.45",
+    "calculated": 13.45
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "rate": 0.5009495,
+    "calculatedstr": "5.01",
+    "calculated": 5.01
+  },
+  {
+    "code": "BND",
+    "name": "Bruneian Dollar",
+    "rate": 0.12735559999999999,
+    "calculatedstr": "1.27",
+    "calculated": 1.27
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "rate": 0.1384251,
+    "calculatedstr": "1.38",
+    "calculated": 1.38
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "rate": 89.8089921,
+    "calculatedstr": "898.09",
+    "calculated": 898.09
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan Renminbi",
+    "rate": 0.6825033,
+    "calculatedstr": "6.83",
+    "calculated": 6.83
+  },
+  {
+    "code": "COP",
+    "name": "Colombian Peso",
+    "rate": 364.095353,
+    "calculatedstr": "3640.95",
+    "calculated": 3640.95
+  },
+  {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "rate": 2.0792513,
+    "calculatedstr": "20.79",
+    "calculated": 20.79
+  },
+  {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "rate": 0.637331,
+    "calculatedstr": "6.37",
+    "calculated": 6.37
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "rate": 0.08528630000000001,
+    "calculatedstr": "0.85",
+    "calculated": 0.85
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "rate": 0.7830382,
+    "calculatedstr": "7.83",
+    "calculated": 7.83
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "rate": 32.0176987,
+    "calculatedstr": "320.18",
+    "calculated": 320.18
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic Krona",
+    "rate": 12.2157772,
+    "calculatedstr": "122.16",
+    "calculated": 122.16
+  },
+  {
+    "code": "INR",
+    "name": "Indian Rupee",
+    "rate": 9.3006882,
+    "calculatedstr": "93.01",
+    "calculated": 93.01
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "rate": 1708.743781,
+    "calculatedstr": "17087.44",
+    "calculated": 17087.44
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "rate": 131482.5904666,
+    "calculatedstr": "1314825.90",
+    "calculated": 1314825.9
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli Shekel",
+    "rate": 0.3042051,
+    "calculatedstr": "3.04",
+    "calculated": 3.04
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "rate": 15.925537199999999,
+    "calculatedstr": "159.26",
+    "calculated": 159.26
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "rate": 47.3848354,
+    "calculatedstr": "473.85",
+    "calculated": 473.85
+  },
+  {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "rate": 148.5572173,
+    "calculatedstr": "1485.57",
+    "calculated": 1485.57
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "rate": 0.0308788,
+    "calculatedstr": "0.31",
+    "calculated": 0.31
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "rate": 0.6358809,
+    "calculatedstr": "6.36",
+    "calculated": 6.36
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "rate": 0.3966362,
+    "calculatedstr": "3.97",
+    "calculated": 3.97
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "rate": 4.6508486,
+    "calculatedstr": "46.51",
+    "calculated": 46.51
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "rate": 1.7303518,
+    "calculatedstr": "17.30",
+    "calculated": 17.3
+  },
+  {
+    "code": "NPR",
+    "name": "Nepalese Rupee",
+    "rate": 14.8880767,
+    "calculatedstr": "148.88",
+    "calculated": 148.88
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "rate": 0.1712895,
+    "calculatedstr": "1.71",
+    "calculated": 1.71
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "rate": 0.9530721,
+    "calculatedstr": "9.53",
+    "calculated": 9.53
+  },
+  {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "rate": 0.038499,
+    "calculatedstr": "0.38",
+    "calculated": 0.38
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistani Rupee",
+    "rate": 27.9274337,
+    "calculatedstr": "279.27",
+    "calculated": 279.27
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "rate": 5.9942835,
+    "calculatedstr": "59.94",
+    "calculated": 59.94
+  },
+  {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "rate": 0.36259420000000003,
+    "calculatedstr": "3.63",
+    "calculated": 3.63
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari Riyal",
+    "rate": 0.364,
+    "calculatedstr": "3.64",
+    "calculated": 3.64
+  },
+  {
+    "code": "RON",
+    "name": "Romanian New Leu",
+    "rate": 0.4341878,
+    "calculatedstr": "4.34",
+    "calculated": 4.34
+  },
+  {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "rate": 7.705060899999999,
+    "calculatedstr": "77.05",
+    "calculated": 77.05
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi Arabian Riyal",
+    "rate": 0.375,
+    "calculatedstr": "3.75",
+    "calculated": 3.75
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "rate": 0.12735559999999999,
+    "calculatedstr": "1.27",
+    "calculated": 1.27
+  },
+  {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "rate": 1.6416018,
+    "calculatedstr": "16.42",
+    "calculated": 16.42
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "rate": 31.541854999999998,
+    "calculatedstr": "315.42",
+    "calculated": 315.42
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "rate": 0.9276239000000001,
+    "calculatedstr": "9.28",
+    "calculated": 9.28
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "rate": 0.0789164,
+    "calculatedstr": "0.79",
+    "calculated": 0.79
+  },
+  {
+    "code": "TWD",
+    "name": "Taiwan New Dollar",
+    "rate": 3.1740766000000002,
+    "calculatedstr": "31.74",
+    "calculated": 31.74
+  },
+  {
+    "code": "THB",
+    "name": "Thai Baht",
+    "rate": 3.2075198,
+    "calculatedstr": "32.08",
+    "calculated": 32.08
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidadian Dollar",
+    "rate": 0.6742146,
+    "calculatedstr": "6.74",
+    "calculated": 6.74
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "rate": 4.4625354,
+    "calculatedstr": "44.63",
+    "calculated": 44.63
+  },
+  {
+    "code": "AED",
+    "name": "Emirati Dirham",
+    "rate": 0.36724999999999997,
+    "calculatedstr": "3.67",
+    "calculated": 3.67
+  },
+  {
+    "code": "GBP",
+    "name": "British Pound",
+    "rate": 0.0743011,
+    "calculatedstr": "0.74",
+    "calculated": 0.74
+  }
+]

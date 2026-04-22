@@ -1,0 +1,74 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/kartal-da-yalniz-yasayan-kadin-evinde-bicaklanmis-halde-olu-bulundu-2495719",
+    "description": "Kartal'da 5 katlı binanın 5'inci katında yalnız yaşayan Ruhan Çalu (52), evinde bıçaklanmış halde kanlar içinde ölü olarak bulundu. Çalu'nun cenazesi incelenmek üzere Adli Tıp Kurumu Morguna kaldırılırken, polis inceleme başlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/821c2c40-e4a1-4c59-87fa-f633804c2fa1.jpg",
+    "name": "Kartal'da yalnız yaşayan kadın evinde bıçaklanmış halde ölü bulundu",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:29.219Z"
+  },
+  {
+    "key": "1",
+    "url": "https://www.cumhuriyet.com.tr/spor/adi-galatasaray-ile-aniliyordu-manchester-city-bernardo-silva-kararini-resmen-duyurdu-2495720",
+    "description": "Manchester City, Bernardo Silva'nın sezon sonunda takımdan ayrılacağını bildirdi. İngiliz ekibinden yapılan duyuruda Bernardo Silva'ya teşekkür edildi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/de73e315-84a5-405a-bf5e-bc36d923ff81.jpg",
+    "name": "Adı Galatasaray ile anılıyordu: Manchester City, Bernardo Silva kararını resmen duyurdu",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:27.544Z"
+  },
+  {
+    "key": "2",
+    "url": "https://www.cumhuriyet.com.tr/spor/mac-sonu-kirmizi-kart-gormustu-iste-arda-guler-i-bekleyen-ceza-2495721",
+    "description": "Real Madrid'in Şampiyonlar Ligi çeyrek finalinde Bayern Münih'e 4-3 kaybettiği maçta 2 gol atan Arda Güler, karşılaşmanın sonunda kırmızı kart görmüştü. İspanyol basını, Arda Güler'i bekleyen cezayı duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/31977098-89eb-4ea1-abec-375fd3f2f3b9.jpg",
+    "name": "Maç sonu kırmızı kart görmüştü: İşte Arda Güler'i bekleyen ceza",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:25.883Z"
+  },
+  {
+    "key": "3",
+    "url": "https://www.cumhuriyet.com.tr/dunya/abd-donanmasi-ndan-yeni-talimat-hurmuz-bogazi-nda-abluka-genisliyor-2495722",
+    "description": "ABD Donanması, İran çevresindeki sularda yaptırım altındaki ya da “kaçak yük” taşıdığı düşünülen gemilere konumdan bağımsız müdahale edileceğini duyurdu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/2b735a86-43e9-41f6-985f-c20d3094434a.jpg",
+    "name": "ABD Donanması’ndan yeni talimat: Hürmüz Boğazı’nda abluka genişliyor",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:24.222Z"
+  },
+  {
+    "key": "4",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/kahramanmaras-taki-okul-saldirgani-isa-aras-mersinli-nasil-oldu-katliamin-buyumesini-kahraman-veli-onledi-2495723",
+    "description": "Kahramanmaraş'ta 9 kişinin yaşamını yitirdiği okul katliamını gerçekleştiren İsa Aras Mersinli’nin otopsi raporunun detayları ortaya çıktı. Raporda saldırganın yoğun kan kaybından öldüğü belirlenirken; facianın boyut büyümesini engelleyen ve saldırganı durduran veli Alperen Bekçi, o dehşet anlarını ilk kez anlattı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/26db5522-b908-40d2-8d77-a4616a138bf1.jpg",
+    "name": "Kahramanmaraş'taki okul saldırganı İsa Aras Mersinli nasıl öldü? Katliamın büyümesini kahraman veli önledi!",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:22.564Z"
+  },
+  {
+    "key": "5",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-insaat-iscileri-elektrik-akimina-kapildi-olu-ve-yarali-var-2495724",
+    "description": "Merkez Kayapınar ilçesinde inşatta elektrik akımına kapılan 2 işçiden biri olan A.H. hayatını kaybetti. Hastaneye kaldırılan R.C. adlı işçinin ise, tedavisi sürüyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/62cb75f1-ad9a-4cde-ae72-5915e7bbd072.jpg",
+    "name": "Diyarbakır'da inşaat işçileri elektrik akımına kapıldı: Ölü ve yaralı var",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:20.665Z"
+  },
+  {
+    "key": "6",
+    "url": "https://www.cumhuriyet.com.tr/gurme/diyet-dostu-enfes-lezzet-chia-tohumlu-unsuz-ekmek-tarifi-2495725",
+    "description": "Glütensiz ve pratik bir alternatif arayanlara özel chia tohumlu unsuz ekmek; besleyici içeriği ve hafif yapısıyla sağlıklı beslenmenin en lezzetli yollarından biridir. İşte, şişkinlik yapmayan chia tohumlu unsuz ekmek tarifi...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/9a8390db-3178-4e8a-a7c7-e2d01b4943e7.jpg",
+    "name": "Diyet dostu enfes lezzet: Chia tohumlu unsuz ekmek tarifi",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T12:43:19.036Z"
+  },
+  {
+    "key": "7",
+    "url": "https://www.ensonhaber.com/ekonomi/oyak-cimento-turkiyenin-en-buyuk-oz-tuketim-amacli-gunes-enerjisi-santralini-devreye-aldi",
+    "description": "Türkiye'nin en büyük öz tüketim amaçlı güneş enerjisi santralini devreye alan OYAK Çimento, Ankara Beypazarı'nda 97,8 MWe kurulu güce sahip dev bir projeyi hayata geçirdi. Santral, OYAK Çimento Fabrikaları'nın enerji ihtiyacının yüzde 25'ini karşılayacak.",
+    "image": "https://imgcdn.ensonhaber.com/media/esh/2026/04/16/69e0d028b0bad439.jpg?w=1200&h=675",
+    "name": "OYAK Çimento, Türkiye’nin en büyük öz tüketim amaçlı güneş enerjisi santralini devreye aldı",
+    "source": "EnSonHaber",
+    "date": "2026-04-16T12:42:41.170Z"
+  }
+]

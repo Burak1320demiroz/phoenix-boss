@@ -1,0 +1,74 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.mynet.com/hem-de-kendisi-acikladi-bernardo-silva-dan-galatasaray-a-mujde-499115-myspor",
+    "description": "Bernardo Silva, 9 yıldır formasını giydiği Manchester City’ye sezon sonunda veda edeceğini açıkladı. Portekizli yıldız, 451 maçta 76 gole imza attı. İşte detaylar...",
+    "image": "https://imgrosetta.mynet.com.tr/file/24237082/24237082-640xauto.png",
+    "name": "Hem de kendisi açıkladı! Bernardo Silva'dan Galatasaray'a müjde",
+    "source": "Mynet",
+    "date": "2026-04-16T14:03:08.121Z"
+  },
+  {
+    "key": "1",
+    "url": "https://www.mynet.com/super-lig-devi-icin-geldi-kim-min-jae-nin-menajeri-istanbul-da-imzalar-her-an-atilabilir-499109-myspor",
+    "description": "Fenerbahçe, eski yıldızı Kim Min-jae için harekete geçti. Güney Koreli stoperin menajeri İstanbul’a gelirken, transfer görüşmeleri hız kazandı.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24236629/24236629-640xauto.jpg",
+    "name": "Süper Lig devi için geldi! Kim Min-Jae'nin menajeri İstanbul'da: İmzalar her an atılabilir",
+    "source": "Mynet",
+    "date": "2026-04-16T13:43:15.382Z"
+  },
+  {
+    "key": "2",
+    "url": "https://www.mynet.com/sivasspor-da-rey-manaj-idmanlara-basladi-499101-myspor",
+    "description": "Özbelsan Sivasspor’da sakatlığı nedeniyle bir süredir forma giyemeyen Rey Manaj, bugün yapılan idmana çıkarak takımla beraber çalışmalara başladı.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24234445/24234445-640xauto.jpg",
+    "name": "Sivasspor’da Rey Manaj idmanlara başladı",
+    "source": "Mynet",
+    "date": "2026-04-16T11:22:39.474Z"
+  },
+  {
+    "key": "3",
+    "url": "https://www.mynet.com/galeri/okan-buruk-tan-fenerbahce-ye-gonderme-osimhen-icin-resmi-aciklama-499100-myspor",
+    "description": "Galatasaray teknik direktörü Okan Buruk, taraftara açık yapılan antrenman öncesi basın mensuplarına açıklamalarda bulundu. Tecrübeli çalıştırıcı 'tüm ipler bizim elimizde' derken son durumu merak edilen Osimhen için de konuştu.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24234073/24234073-640xauto.jpg",
+    "name": "Okan Buruk'tan Fenerbahçe'ye gönderme! Osimhen için resmi açıklama",
+    "source": "Mynet",
+    "date": "2026-04-16T11:02:28.898Z"
+  },
+  {
+    "key": "4",
+    "url": "https://www.mynet.com/kendisi-bile-itiraf-etti-mac-biter-bitmez-neuer-den-arda-guler-sozleri-499091-myspor",
+    "description": "Bayern Münih, Real Madrid’i iki maçta da yenerek yarı finale çıktı. Arda Güler’in iki golle parladığı gecede, Neuer genç yıldızın yeteneğine övgü yağdırdı.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24233074/24233074-640xauto.jpg",
+    "name": "Kendisi bile itiraf etti! Maç biter bitmez Neuer'den Arda Güler sözleri",
+    "source": "Mynet",
+    "date": "2026-04-16T10:04:15.431Z"
+  },
+  {
+    "key": "5",
+    "url": "https://www.mynet.com/herkes-ters-kose-oldu-tff-den-galatasaray-fenerbahce-derbisi-icin-hakem-karari-499089-myspor",
+    "description": "Galatasaray-Fenerbahçe derbisi öncesi hakem tartışması sürüyor. TFF’de yabancı hakem için kararını verirken, iki isim öne çıkıyor. İşte detaylar...",
+    "image": "https://imgrosetta.mynet.com.tr/file/24232642/24232642-640xauto.jpg",
+    "name": "Herkes ters köşe oldu! TFF'den Galatasaray-Fenerbahçe derbisi için hakem kararı",
+    "source": "Mynet",
+    "date": "2026-04-16T09:23:38.883Z"
+  },
+  {
+    "key": "6",
+    "url": "https://www.mynet.com/tutuklanan-hakem-elif-karaarslan-in-ifadesi-ortaya-cikti-yaptigim-paylasimlar-499082-myspor",
+    "description": "Tutuklanan Elif Karaarslan, savcılık ifadesinde sosyal medya paylaşımlarının müstehcen olmadığını savundu, uyuşturucu iddialarını ise kesin bir dille reddetti.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24229480/24229480-640xauto.jpg",
+    "name": "Tutuklanan hakem Elif Karaarslan'ın ifadesi ortaya çıktı! \"Yaptığım paylaşımlar...\"",
+    "source": "Mynet",
+    "date": "2026-04-16T07:23:59.117Z"
+  },
+  {
+    "key": "7",
+    "url": "https://www.mynet.com/fenerbahce-baskan-vekili-murat-salar-yolun-sonu-sampiyonluk-olsun-499083-myspor",
+    "description": "Fenerbahçe Başkan Vekili Murat Salar, Süper Lig’de kalan 5 maça tek tek baktıklarını belirterek, 'İnşallah cuma günü taraftarımızın desteği ile Rizespor maçını kazanacağız. Taraftarlarımızın desteğine çok ihtiyacımız var. Yolun sonu şampiyonluk olsun' dedi.",
+    "image": "https://imgrosetta.mynet.com.tr/file/24229543/24229543-640xauto.png",
+    "name": "Fenerbahçe Başkan Vekili Murat Salar: \"Yolun sonu şampiyonluk olsun\"",
+    "source": "Mynet",
+    "date": "2026-04-16T07:23:57.877Z"
+  }
+]

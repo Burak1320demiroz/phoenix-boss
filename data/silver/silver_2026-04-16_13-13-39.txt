@@ -1,0 +1,9 @@
+{
+  "currency": "TRY",
+  "buyingstr": "114,27",
+  "buying": 114.27,
+  "sellingstr": "114,36",
+  "selling": 114.36,
+  "rate": "% 0,00",
+  "updatetime": "15:55"
+}

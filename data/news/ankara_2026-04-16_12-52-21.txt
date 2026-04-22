@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.haberankara.com/ankara/ankarada-cuma-gunu-gok-gurultulu-saganak-yagis-bekleniyor-313377",
+    "description": "Meteoroloji Genel Müdürlüğü, yaptığı açıklamasında yarın Türkiye genelinde sağanak yağışın beklendiğini aktardı. Özellikle ankara2da yer yer gök gürültülü sağanak yağışın etkili olabileceği ifade edildi.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/ankarada-cuma-gunu-gok-gurultulu-saganak-yagis-bekleniyor-hfyz.jpg",
+    "name": "Ankara'da cuma günü gök gürültülü sağanak yağış bekleniyor!",
+    "source": "ankara"
+  },
+  {
+    "key": "1",
+    "url": "https://www.haberankara.com/gundem/osym-duyurdu-e-ydts-basvurulari-basladi-313375",
+    "description": "ÖSYM, yaptığı açıklamasında e-YDTS başvurularının başladığını duyurdu. Başvurmak isteyen adaylar için başvurular 28 Nisan tarihine kadar alınacak.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/osym-duyurdu-e-ydts-basvurulari-basladi-nnh1.jpg",
+    "name": "ÖSYM duyurdu: e-YDTS başvuruları başladı",
+    "source": "ankara"
+  },
+  {
+    "key": "2",
+    "url": "https://www.haberankara.com/keciorengucu/esenler-erokspor-emre-gokdemir-insaat-ankara-keciorengucu-macinin-hakemi-aciklandi-313374",
+    "description": "Trendyol 1. Lig'de 36. hafta maçlarında düdük çalacak hakemler açıklandı.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/03/19/emre-gokdemir-insaat-ankara-keciorengucu-adana-demirspor-macinin-hakemi-belli-oldu-djck.jpg",
+    "name": "Esenler Erokspor-Emre Gökdemir İnşaat Ankara Keçiörengücü maçının hakemi açıklandı",
+    "source": "ankara"
+  },
+  {
+    "key": "3",
+    "url": "https://www.haberankara.com/is-dunyasi/oyak-cimentodan-beypazarina-yeni-yatirim-313373",
+    "description": "OYAK Çimento tarafından Ankara'ya yapılan yeni yatırım devreye alındı. TEDAŞ tarafından yapılan geçici kabulün ardından Ankara Beypazarı Güneş Enerjisi Santrali (GES) projesi tam kapasite ile operasyona start verdi.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/oyak-cimentodan-beypazarina-yeni-yatirim-vt57.jpg",
+    "name": "OYAK Çimento'dan Beypaza'rına yeni yatırım!",
+    "source": "ankara"
+  },
+  {
+    "key": "4",
+    "url": "https://www.haberankara.com/saglik/vanli-iki-cocuk-icin-ambulans-ucakla-tedavi-icin-ankaraya-getirildi-313372",
+    "description": "Sağlık Bakanlığı tarafından görevlendirilen ambulans uçak, Van Eğitim ve Araştırma Hastanesinde tedavi gören iki çocuk hastayı tedavi için Ankara'ya ulaştırdı. Çocuklar Gazi Üniversitesi ve Blkent Şehir Hastanesi'ne sevk edildiler.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/vanli-iki-cocuk-icin-ambulans-ucakla-tedavi-icin-ankaraya-getirildi-qhvz.jpg",
+    "name": "Vanlı iki çocuk için ambulans uçakla tedavi için Ankara'ya getirildi",
+    "source": "ankara"
+  },
+  {
+    "key": "5",
+    "url": "https://www.haberankara.com/politika/okullari-hedef-gosteren-sosyal-medya-kullanicilari-gozaltina-alindi-313370",
+    "description": "Adalet Bakanı Akın Gürlek yaptığı açıklamasında okulları hedef gösteren 667 sosyal medya kullanıcısının gözaltına alındığını ifade etti. Bakan Gürlek, gözaltına alınan şahısların haklarında adli işlemlerin devam ettiğini belirtti.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/okullari-hedef-gosteren-sosyal-medya-kullanicilari-gozaltina-alindi-wmg5.jpg",
+    "name": "Okulları hedef gösteren sosyal medya kullanıcıları gözaltına alındı!",
+    "source": "ankara"
+  },
+  {
+    "key": "6",
+    "url": "https://www.haberankara.com/yazarlar/orhan-sal/is-bitirici-ilhami-alparslan-delikanli-sedat-tahiroglu-ve-mirac-simsek-313371",
+    "description": "Emre Gökdemir İnşaat Ankara Keçiörengücü Başkanı Sedat Tahiroğlu’nun uzun süredir Ankara spor medyasına, açığa vurmadığı bir tepkisi vardı.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2026/04/16/is-bitirici-ilhami-alparslan-delikanli-sedat-tahiroglu-ve-mirac-simsek-obre.jpg",
+    "name": "İş bitirici İlhami Alparslan, delikanlı Sedat Tahiroğlu ve Miraç Şimşek",
+    "source": "ankara"
+  },
+  {
+    "key": "7",
+    "url": "https://www.haberankara.com/ankara/kirsehirde-ankaradan-gelen-kisilerle-cikan-silahli-kavgada-1-kisi-oldu-313369",
+    "description": "Çiçekdağı'nda yaşanan silahlı kavgada 1 kişinin hayatını kaybettiği açıklandı. Kavgaya karışan 2 kişinin Ankara'dan geldiği belirlendi.",
+    "image": "https://i.haberankara.com/2/150/84/storage/files/images/2025/03/25/olay-yeri-bffr.jpg",
+    "name": "Kırşehir'de Ankara'dan gelen kişilerle çıkan silahlı kavgada 1 kişi öldü!",
+    "source": "ankara"
+  }
+]

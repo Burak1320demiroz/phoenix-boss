@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.61saat.com/trabzon-dahil-81-il-valisine-talimat-erken-uyari-mekanizmasi-guclendirilecek",
+    "description": "İçişleri Bakanı Mustafa Çiftçi ve Milli Eğitim Bakanı Yusuf Tekin, 'okullarda güvenlik' kapsamında 81 il valisi ve il milli eğitim müdürleri ile çevrim içi toplantı gerçekleştirdi. Toplantıya ilişkin yapılan açıklamada okul ve çevrelerinde gerekli tüm tedbirlerin alınacağı belirtildi.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/h-g-f-d-s-4.webp",
+    "name": "Trabzon dahil 81 il valisine talimat… Erken uyarı mekanizması güçlendirilecek…",
+    "source": "trabzon"
+  },
+  {
+    "key": "1",
+    "url": "https://www.61saat.com/trabzonlu-merhum-is-insani-ibrahim-usta-kabri-basinda-anildi",
+    "description": "Trabzonlu merhum iş insanı İbrahim Usta, ölümünün 3. Yılında kabri başında anıldı.",
+    "image": "https://61saatcom.teimg.com/61saat-com/uploads/2026/04/ekran-resmi-2026-04-16-152859.png",
+    "name": "Trabzonlu merhum iş insanı İbrahim Usta, kabri başında anıldı…",
+    "source": "trabzon"
+  },
+  {
+    "key": "2",
+    "url": "https://www.61saat.com/trabzonsporun-unutulmaz-ismi-futbola-veda-etti",
+    "description": "Trabzonspor’un eski golcüsü oscar cardozo, 42 yaşında futbol kariyerini sonlandırdığını açıkladı.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/eeewwewe.jpg",
+    "name": "Trabzonspor'un unutulmaz ismi futbola veda etti",
+    "source": "trabzon"
+  },
+  {
+    "key": "3",
+    "url": "https://www.61saat.com/chpli-suicmezden-sert-tepki-derhal-istifa-etmeli",
+    "description": "Cumhuriyet Halk Partisi Trabzon Milletvekilİ Sibel Suiçmez, Kahramanmaraş’ta yaşanan ve 9 kişinin yaşamını yitirdiği katliama ilişkin TBMM Genel Kurulu’nda bir konuşma yaptı.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/g-f-d-36.webp",
+    "name": "CHP'li Suiçmez'den sert tepki! \"Derhal istifa etmeli...\"",
+    "source": "trabzon"
+  },
+  {
+    "key": "4",
+    "url": "https://www.61saat.com/trabzonda-belediyeler-de-yaza-hazirlaniyor-denize-sifir-tesis-yenilendi",
+    "description": "Trabzon Yomra Belediyesi, Namıkkemal Mahallesi sahilinde bulunan belediyeye ait tesislerde yenileme çalışması gerçekleştirdi. Belediye yetkilileri, tesislerin daha modern, konforlu ve estetik bir görünüme kavuşturulduğunu açıkladı.",
+    "image": "https://61saatcom.teimg.com/61saat-com/uploads/2026/04/tesis5.jpg",
+    "name": "Trabzon'da belediyeler de yaza hazırlanıyor! Denize sıfır tesis yenilendi...",
+    "source": "trabzon"
+  },
+  {
+    "key": "5",
+    "url": "https://www.61saat.com/avrasya-universitesinde-gastronomi-zirvesi-basladi",
+    "description": "Trabzon’da düzenlenen 1. Ulusal Beslenme ve Gastronomi Sempozyumu, “Türk mutfağında inovatif yaklaşımlar” temasıyla kapılarını açtı.",
+    "image": "https://61saatcom.teimg.com/61saat-com/uploads/2026/04/ekran-resmi-2026-04-16-151757.png",
+    "name": "Avrasya Üniversitesi’nde gastronomi zirvesi başladı!",
+    "source": "trabzon"
+  },
+  {
+    "key": "6",
+    "url": "https://www.61saat.com/osbuk-heyeti-trabzon-ticaret-borsasinda",
+    "description": "Organize Sanayi Bölgeleri Üst Kuruluşu (OSBÜK) Yönetim Kurulu Başkanı Memiş Kütükcü ve Yönetim Kurulu Üyeleri, Trabzon Ticaret Borsası’nı (TTB) ziyaret ederek çeşitli konularda görüş alışverişinde bulundular.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/i-m-g-3792.JPG",
+    "name": "OSBÜK heyeti Trabzon Ticaret Borsası’nda…",
+    "source": "trabzon"
+  },
+  {
+    "key": "7",
+    "url": "https://www.61saat.com/ayla-ogretmenin-esi-aciklamalarda-bulundu",
+    "description": "Kahramanmaraş’ta ortaokulda düzenlenen silahlı saldırıda öğrencilerine siper olan ve 3 kurşunla hayatını kaybeden öğretmen Ayla Kara’nın eşi Ramazan Kara, 'Gurur duyuyorum. Burayı çok seviyordu, ev yaptıracaktık ama cenazesi geldi' dedi.",
+    "image": "https://61saatcom.teimg.com/crop/1280x720/61saat-com/uploads/2026/04/aw684912-05.jpg",
+    "name": "Ayla öğretmenin eşi açıklamalarda bulundu!",
+    "source": "trabzon"
+  }
+]

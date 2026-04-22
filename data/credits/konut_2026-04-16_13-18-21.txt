@@ -1,0 +1,72 @@
+[
+  {
+    "bank": "akbank",
+    "query": "konut",
+    "bank-code": "akbank",
+    "kredi": "Konut Kredisi",
+    "name": "akbank",
+    "faiz": "%3,75",
+    "min": 12,
+    "max": 120
+  },
+  {
+    "bank": "garanti-bankasi",
+    "query": "konut",
+    "bank-code": "garanti-bankasi",
+    "kredi": "Konut Kredisi",
+    "name": "garanti-bankasi",
+    "faiz": "%3,45",
+    "min": 12,
+    "max": 240
+  },
+  {
+    "bank": "albaraka-turk",
+    "query": "konut",
+    "bank-code": "albaraka-turk",
+    "kredi": "Konut Kredisi",
+    "name": "albaraka-turk",
+    "faiz": "%2,80",
+    "min": 1,
+    "max": 120
+  },
+  {
+    "bank": "ing-bank",
+    "query": "konut",
+    "bank-code": "ing-bank",
+    "kredi": "Konut Kredisi",
+    "name": "ing-bank",
+    "faiz": "%2,99",
+    "min": 12,
+    "max": 120
+  },
+  {
+    "bank": "kuveyt-turk",
+    "query": "konut",
+    "bank-code": "kuveyt-turk",
+    "kredi": "Konut Kredisi",
+    "name": "kuveyt-turk",
+    "faiz": "%3,80",
+    "min": 1,
+    "max": 120
+  },
+  {
+    "bank": "turkiye-finans",
+    "query": "konut",
+    "bank-code": "turkiye-finans",
+    "kredi": "Konut Kredisi",
+    "name": "turkiye-finans",
+    "faiz": "%3,73",
+    "min": 12,
+    "max": 120
+  },
+  {
+    "bank": "vakif-katilim",
+    "query": "konut",
+    "bank-code": "vakif-katilim",
+    "kredi": "Konut Kredisi",
+    "name": "vakif-katilim",
+    "faiz": "%2,63",
+    "min": 12,
+    "max": 120
+  }
+]

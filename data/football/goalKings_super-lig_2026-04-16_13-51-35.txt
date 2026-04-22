@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Paul Onuachu",
+    "goals": "22"
+  },
+  {
+    "name": "Eldor Shomurodov",
+    "goals": "18"
+  },
+  {
+    "name": "Anderson Talisca",
+    "goals": "15"
+  },
+  {
+    "name": "Mauro Icardi",
+    "goals": "13"
+  },
+  {
+    "name": "Mohamed Bayo",
+    "goals": "13"
+  },
+  {
+    "name": "Victor Osimhen",
+    "goals": "12"
+  },
+  {
+    "name": "Felipe Augusto",
+    "goals": "11"
+  },
+  {
+    "name": "Marco Asensio",
+    "goals": "11"
+  },
+  {
+    "name": "Ernest Muçi",
+    "goals": "10"
+  },
+  {
+    "name": "Juan",
+    "goals": "9"
+  }
+]

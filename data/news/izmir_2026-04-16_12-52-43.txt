@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.izgazete.net/izmirde-spor-festivali-heyecani-koklu-kulupler-sahaya-cikiyor",
+    "description": "İzmir Büyükşehir Belediyesi ve Türkiye Voleybol Federasyonu iş birliğiyle düzenlenecek dev voleybol organizasyonu, bu yıl üçüncü kez İzmir’de düzenlenecek.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/izmirde-spor-festivali-heyecani-1.jpg",
+    "name": "İzmir'de spor festivali heyecanı: Köklü kulüpler sahaya çıkıyor",
+    "source": "izmir"
+  },
+  {
+    "key": "1",
+    "url": "https://www.izgazete.net/vatandas-istedi-belediye-yapti-izmire-son-1-yilda-33-eshot-hatti",
+    "description": "İzmir Büyükşehir Belediyesi son bir yılda 33 yeni otobüs hattını hizmete soktu. Vatandaşların talebini değerlendiren belediye, birçok noktaya ulaşımı kolaylaştırdı.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/03/eshot-bornova-yeni-hat.jpg",
+    "name": "Vatandaş istedi belediye yaptı: İzmir'e son 1 yılda 33 ESHOT hattı",
+    "source": "izmir"
+  },
+  {
+    "key": "2",
+    "url": "https://www.izgazete.net/izmir-merkezli-deas-operasyonu-35-kisi-gozaltinda",
+    "description": "İzmir merkezli 4 ilde DEAŞ’a finansman sağladıkları iddia edilen 35 şüpheli, jandarma ekiplerinin sabah saatlerinde düzenlediği operasyonda yakalandı.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/izmir-deas-operasyon-2.jpg",
+    "name": "İzmir merkezli DEAŞ operasyonu: 35 kişi gözaltında",
+    "source": "izmir"
+  },
+  {
+    "key": "3",
+    "url": "https://www.izgazete.net/dolar-ve-euro-yeni-gune-nasil-basladi-iste-guncel-kurlar",
+    "description": "Güncel döviz kurları belli oldu. Dolar e Euro güne yükselişle başladı.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2024/12/dovizkapak.jpg",
+    "name": "Dolar ve Euro yeni güne nasıl başladı? İşte güncel kurlar",
+    "source": "izmir"
+  },
+  {
+    "key": "4",
+    "url": "https://www.izgazete.net/izmirde-hidirellez-coskusu-dolu-dolu-program",
+    "description": "Baharın müjdecisi Hıdırallez bu yıl İzmir’de dolu dolu programlarla kutlanacak. Baharın müjdecisi Hıdırellez, 5 Mayıs’ta Kültürpark’ta birbirinden güzel etkinliklerle kutlanacak. 18.00’de konserler başlıyor, 22.30’da ise Hıdırellez Ateşi yakılacak. Konak Ege Mahallesi ile Bayındır Çırpı’da da konserler var.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/izmirde-hidirellez-coskusu-dolu-dolu-program.jpg",
+    "name": "İzmir’de Hıdırellez coşkusu: Dolu dolu program",
+    "source": "izmir"
+  },
+  {
+    "key": "5",
+    "url": "https://www.izgazete.net/gezmeyi-seven-izmirlilere-mujde-izdenizden-simdi-de-seferihisar-samos-seferi",
+    "description": "İzmir'de deniz turizmine yeni bir rota daha ekleniyor. İzmir-Midilli, Çeşme-Sakız rotalarına şimdi de Seferihisar-Samos seferleri ekleniyor.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/izdenizden-seferihisar-samos-seferi.webp",
+    "name": "Gezmeyi seven İzmirlilere müjde: İZDENİZ'den şimdi de Seferihisar-Samos seferi",
+    "source": "izmir"
+  },
+  {
+    "key": "6",
+    "url": "https://www.izgazete.net/izmirin-koylerine-yangin-korumasi-125-tanker-daha-dagitilacak",
+    "description": "İzmir Büyükşehir Belediyesi, kırsal alanlarda yangınlara hızlı müdahale sağlamak amacıyla yaz ayları öncesi 125 yangın söndürme tankeri dağıtacağını açıkladı.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/izmirin-koylerine-yangin-korumasi-2.jpg",
+    "name": "İzmir'in köylerine yangın koruması: 125 tanker daha dağıtılacak",
+    "source": "izmir"
+  },
+  {
+    "key": "7",
+    "url": "https://www.izgazete.net/bakan-yerlikaya-acikladi-1-mayista-409-gozalti",
+    "description": "İçişleri Bakanı Ali Yerlikaya 1 Mayıs kutlamalarında gözaltına alınan kişilerin sayısını açıkladı. Yerlikaya, “Yerlikaya, 78 ildeki etkinlikler kapsamında; İstanbul’da 407, Tokat’ta 1 ve Van’da da 1 olmak üzere toplam 409 kişinin gözaltına alındı” dedi.",
+    "image": "https://izgazetenet.teimg.com/crop/1280x720/izgazete-net/uploads/2025/05/bakan-yerlikaya-acikladi-1-mayista-409-gozalti-1.webp",
+    "name": "Bakan Yerlikaya açıkladı: 1 Mayıs'ta 409 gözaltı!",
+    "source": "izmir"
+  }
+]

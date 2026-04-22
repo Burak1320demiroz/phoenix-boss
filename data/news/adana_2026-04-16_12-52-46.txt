@@ -1,0 +1,66 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.adanahaber.net/haber/adana-valisi-kosger-seyhanda-vatandaslarla-bir-araya-geldi-talep-ve-sorunlari-dinledi-35646",
+    "description": "Adana Valisi Köşger Seyhan'da Vatandaşlarla Bir Araya Geldi, Talep ve Sorunları Dinledi",
+    "image": "https://www.adanahaber.net/images/haberler/2026/01/adana-valisi-kosger-seyhanda-vatandaslarla-bir-araya-geldi-talep-ve-sorunlari-dinledi-1767545888.jpg",
+    "name": "Adana Valisi Köşger Seyhan'da Vatandaşlarla Bir Araya Geldi, Talep ve Sorunları Dinledi",
+    "source": "adana"
+  },
+  {
+    "key": "1",
+    "url": "https://www.adanahaber.net/haber/ureten-turkiyenin-guneydeki-gucu-aosb-35645",
+    "description": "Üreten Türkiye’nin Güneydeki Gücü; AOSB",
+    "image": "https://www.adanahaber.net/images/haberler/2026/01/ureten-turkiyenin-guneydeki-gucu-aosb-1767543485.jpg",
+    "name": "Üreten Türkiye’nin Güneydeki Gücü; AOSB",
+    "source": "adana"
+  },
+  {
+    "key": "2",
+    "url": "https://www.adanahaber.net/haber/is-guvenligi-uzmani-arayisiniz-satem-mobil-saglik-ile-son-buluyor-35644",
+    "description": "İş Güvenliği Uzmanı Arayışınız Satem Mobil Sağlık İle Son Buluyor",
+    "image": "https://www.adanahaber.net/images/haberler/2026/01/is-guvenligi-uzmani-arayisiniz-satem-mobil-saglik-ile-son-buluyor-1767365521.jpg",
+    "name": "İş Güvenliği Uzmanı Arayışınız Satem Mobil Sağlık İle Son Buluyor",
+    "source": "adana"
+  },
+  {
+    "key": "3",
+    "url": "https://www.adanahaber.net/haber/kosova-cumhurbaskani-osmaniden-taziye-mesaji-35643",
+    "description": "Kosova Cumhurbaşkanı Osmani'den Taziye Mesajı",
+    "image": "https://www.adanahaber.net/images/haberler/2026/01/kosova-cumhurbaskani-osmaniden-taziye-mesaji-1767305447.png",
+    "name": "Kosova Cumhurbaşkanı Osmani'den Taziye Mesajı",
+    "source": "adana"
+  },
+  {
+    "key": "4",
+    "url": "https://www.adanahaber.net/haber/ankara-web-tasariminda-dijital-varligi-zirveye-tasiyan-stratejiler-webnexte-35642",
+    "description": "Ankara Web Tasarımında Dijital Varlığı Zirveye Taşıyan Stratejiler Webnex’te",
+    "image": "https://www.adanahaber.net/images/haberler/2026/01/ankara-web-tasariminda-dijital-varligi-zirveye-tasiyan-stratejiler-webnexte-1767268942.jpg",
+    "name": "Ankara Web Tasarımında Dijital Varlığı Zirveye Taşıyan Stratejiler Webnex’te",
+    "source": "adana"
+  },
+  {
+    "key": "5",
+    "url": "https://www.adanahaber.net/haber/estetik-odullerinde-unlu-akini-35641",
+    "description": "Estetik Ödüllerinde Ünlü Akını",
+    "image": "https://www.adanahaber.net/public/images/detay/bz2.JPG",
+    "name": "Estetik Ödüllerinde Ünlü Akını",
+    "source": "adana"
+  },
+  {
+    "key": "6",
+    "url": "https://www.adanahaber.net/haber/kadikoy-bolgesinde-arac-anahtari-kaybindan-profesyonel-cozumler-35640",
+    "description": "Kadıköy Bölgesinde Araç Anahtarı Kaybından Profesyonel Çözümler",
+    "image": "https://www.adanahaber.net/images/haberler/2025/12/kadikoy-bolgesinde-arac-anahtari-kaybindan-profesyonel-cozumler-1767128316.jpg",
+    "name": "Kadıköy Bölgesinde Araç Anahtarı Kaybından Profesyonel Çözümler",
+    "source": "adana"
+  },
+  {
+    "key": "7",
+    "url": "https://www.adanahaber.net/haber/ibrahim-murat-gunduz-burak-ilgin-ramazan-baygara-ve-irfan-kokluden-adanadan-net-ve-sert-mesaj-35638",
+    "description": "İbrahim Murat Gündüz, Burak Ilgın, Ramazan Baygara ve İrfan Köklü’den Adana’dan Net ve Sert Mesaj",
+    "image": "https://www.adanahaber.net/images/haberler/2025/12/ibrahim-murat-gunduz-burak-ilgin-ramazan-baygara-ve-irfan-kokluden-adanadan-net-ve-sert-mesaj-1767092801.jpeg",
+    "name": "İbrahim Murat Gündüz, Burak Ilgın, Ramazan Baygara ve İrfan Köklü’den Adana’dan Net ve Sert Mesaj",
+    "source": "adana"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "league": "Trendyol Süper Lig",
+    "key": "super-lig"
+  },
+  {
+    "league": "Trendyol 1. Lig",
+    "key": "tff-1-lig"
+  },
+  {
+    "league": "İngiltere Premier Ligi",
+    "key": "ingiltere-premier-ligi"
+  },
+  {
+    "league": "UEFA Konferans Ligi",
+    "key": "uefa-konferans-ligi"
+  },
+  {
+    "league": "Almanya Bundesliga",
+    "key": "almanya-bundesliga"
+  },
+  {
+    "league": "Fransa Ligue 1",
+    "key": "fransa-ligue-1"
+  },
+  {
+    "league": "İspanya La Liga",
+    "key": "ispanya-la-liga"
+  },
+  {
+    "league": "İtalya Serie A",
+    "key": "italya-serie-a-ligi"
+  },
+  {
+    "league": "İngiltere Championship",
+    "key": "ingiltere-sampiyonluk-ligi"
+  },
+  {
+    "league": "Almanya 2. Bundesliga",
+    "key": "almanya-bundesliga-2-ligi"
+  },
+  {
+    "league": "Fransa Ligue 2",
+    "key": "fransa-ligue-2"
+  },
+  {
+    "league": "Avrupa Şampiyonası ",
+    "key": "/2024-uefa-euro-cup"
+  },
+  {
+    "league": "beINsquad",
+    "key": "/bein-squad"
+  },
+  {
+    "league": "Trendyol Süper Lig Özetler",
+    "key": "/mac-ozetleri-goller/super-lig"
+  },
+  {
+    "league": "Trendyol Süper Lig Goller",
+    "key": "/mac-ozetleri-goller/super-lig"
+  },
+  {
+    "league": "Trendyol 1. Lig Özetler",
+    "key": "/mac-ozetleri-goller/tff-1-lig"
+  },
+  {
+    "league": "İngiltere Premier Lig Özetler",
+    "key": "/mac-ozetleri-goller/ingiltere-premier-ligi"
+  },
+  {
+    "league": "Fransa Ligue 1 Özetler",
+    "key": "/mac-ozetleri-goller/fransa-ligue-1"
+  },
+  {
+    "league": "Fransa Ligue 2 Özetler",
+    "key": "/mac-ozetleri-goller/fransa-ligue-2"
+  },
+  {
+    "league": "Türkiye Sigorta Basketbol Süper Ligi Özetler",
+    "key": "/mac-ozetleri-goller/basketbol-super-ligi"
+  },
+  {
+    "league": "Türkiye Sigorta Basketbol Süper Ligi",
+    "key": "basketbol-super-ligi"
+  },
+  {
+    "league": "Turkish Airlines EuroLeague",
+    "key": "euroleague"
+  },
+  {
+    "league": "NBA",
+    "key": "nba"
+  },
+  {
+    "league": "Formula 1",
+    "key": "/formula-1"
+  },
+  {
+    "league": "<img alt=\"F1 Fantasy logo\" loading=\"lazy\" decoding=\"async\" data-nimg=\"fixed\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%\" src=\"https://media02.tr.beinsports.com/img/templates/f1-fantasy-logo.png\"/>F1 Fantasy",
+    "key": "https://fantasy.formula1.com/en/leagues/join/P3GW5K9JO03"
+  },
+  {
+    "league": "Tenis",
+    "key": "/gundem/tenis"
+  },
+  {
+    "league": "Voleybol",
+    "key": "/gundem/voleybol"
+  },
+  {
+    "league": "Güreş",
+    "key": "/gundem/gures"
+  },
+  {
+    "league": "Atletizm",
+    "key": "/gundem/atletizm"
+  },
+  {
+    "league": "e-Spor",
+    "key": "/gundem/e-spor"
+  },
+  {
+    "league": "Diğer Sporlar",
+    "key": "/gundem/diger"
+  }
+]

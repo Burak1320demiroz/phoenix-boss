@@ -1,0 +1,74 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.chip.com.tr/guncel/kpop-demon-hunters-yapimcilari-gunumuzun-charlie-ve-cikolata-fabrikasi-filmini-hazirliyor_179525.html",
+    "description": "Netflix, Charlie ve Çikolata Fabrikası hikâyesini animasyon filmle yeniden anlatıyor. Wonka hapisten çıkıyor, Charlie ise tamamen değişiyor. Yeni film 2027’de geliyor.",
+    "image": "https://i.chip.com.tr/storage/files/images/2026/04/16/kpop-demon-hunters-yapimcilari-gunumuzun-charlie-ve-cikolata-fabrikasi-filmini-hazirliyor-iej6.jpg",
+    "name": "KPop Demon Hunters yapımcıları günümüzün Charlie ve Çikolata Fabrikası filmini hazırlıyor",
+    "source": "Chip Online",
+    "date": "2026-04-16T14:41:21.876Z"
+  },
+  {
+    "key": "1",
+    "url": "https://webrazzi.com/2026/04/16/muzik-uretimi-ve-yayin-sureclerini-tek-cati-altinda-toplayan-yapay-zeka-girisimi-rockagent/",
+    "description": "Müzik odaklı yapay zeka SaaS projesi olan RockAgent, AI native müzisyenleri profesyonel bir işletim sistemine kavuşturmayı hedefliyor. 2 milyon ücretli Suno kullancısı olduğuna dikkat çeken girişim, b...",
+    "image": "https://cdn.webrazzi.com/uploads/2026/04/ra-dashboard-2-727.jpg",
+    "name": "Müzik üretimi ve yayın süreçlerini tek çatı altında toplayan yapay zeka girişimi: RockAgent",
+    "source": "Webrazzi",
+    "date": "2026-04-16T14:40:32.020Z"
+  },
+  {
+    "key": "2",
+    "url": "https://www.tamindir.com/haber/lenovo-legion-y70-tanitim-tarihi-duyuru_107900/",
+    "description": "Lenovo'nun yeni oyun telefonu Legion Y70'e dair önemli bir gelişme yaşandı. Bu gelişme doğrultusunda Legion Y70'in tanıtım tarihi açıklandı.",
+    "image": "https://img.tamindir.com/2026/04/470608/lenovo-legion-y70-tanitim-tarihi-duyuru.jpg",
+    "name": "16 GB RAM'li Oyun Telefonu Geliyor! 144Hz Ekran ve Dahası",
+    "source": "Tam İndir",
+    "date": "2026-04-16T14:22:07.737Z"
+  },
+  {
+    "key": "3",
+    "url": "https://www.tamindir.com/haber/realme-buds-t500-pro-ozellikleri-fiyati_107897/",
+    "description": "Uzun bir süreden beri beklenen Realme kulaklık tanıtıldı. Bununla birlikte cihazın bütün özellikleri ve fiyatı açıklığa kavuştu.",
+    "image": "https://img.tamindir.com/2026/04/476796/realme-buds-t500-pro-ozellikleri-fiyati.jpg",
+    "name": "Bu Kulaklıkla Yabancı Dil Bilmeye Gerek Kalmıyor! 56 Saat Pil Ömrü Var",
+    "source": "Tam İndir",
+    "date": "2026-04-16T14:22:06.470Z"
+  },
+  {
+    "key": "4",
+    "url": "https://www.donanimhaber.com/250-bin-dolarlik-sistemlere-rakip-acik-kaynakli-radar-sistemi--204540",
+    "description": "Faslı mühendis Nawfal Motii’nin geliştirdiği açık kaynak Aeris-10 radar sistemi, 20 km menzil ve düşük maliyetiyle dikkat çekti. Sistem, 250 bin dolarlık çözümler alternatif olabilir.",
+    "image": "https://www.donanimhaber.com/images/images/haber/204540/1400x788250-bin-dolarlik-sistemlere-rakip-acik-kaynakli-radar-sistemi.jpg",
+    "name": "Bir mühendis 250 bin dolarlık sistemlere rakip radar sistemi geliştirdi",
+    "source": "Donanım Haber",
+    "date": "2026-04-16T14:20:58.669Z"
+  },
+  {
+    "key": "5",
+    "url": "https://www.chip.com.tr/guncel/galaxy-watchta-can-sikan-sorun-batarya-omru-bir-anda-cakildi_179521.html",
+    "description": "Samsung'un popüler akıllı saat serisinde baş gösteren batarya sorunu, kullanıcıları isyan noktasına getirdi. Son güncellemenin ardından pil ömrü saatler içinde eriyen cihazlar için henüz resmi bir açıklama gelmiş değil.",
+    "image": "https://i.chip.com.tr/storage/files/images/2026/04/16/galaxy-watchta-can-sikan-sorun-batarya-omru-bir-anda-cakildi-rymz.jpg",
+    "name": "Galaxy Watch’ta can sıkan sorun: Batarya ömrü bir anda çakıldı",
+    "source": "Chip Online",
+    "date": "2026-04-16T14:20:38.955Z"
+  },
+  {
+    "key": "6",
+    "url": "https://www.donanimhaber.com/ipv6-kullanimi-ilk-kez-yuzde-50-ye-ulasti-turkiye-ne-durumda--204542",
+    "description": "Google’ın paylaştığı verilere göre, 28 Mart tarihinde dünya genelinde internet kullanıcılarının %50’si kısa süreliğine IPv6 üzerinden bağlantı kurarak tarihte bir ilki gerçekleştirdi.",
+    "image": "https://www.donanimhaber.com/images/images/haber/204542/1400x788ipv6-kullanimi-ilk-kez-yuzde-50-ye-ulasti-turkiye-ne-durumda.jpg",
+    "name": "IPv6 kullanımı ilk kez %50'ye ulaştı: Türkiye ne durumda?",
+    "source": "Donanım Haber",
+    "date": "2026-04-16T14:01:12.487Z"
+  },
+  {
+    "key": "7",
+    "url": "https://www.chip.com.tr/guncel/macbook-neo-sonrasi-ilk-tepki-microsoft-fiyat-degil-paketle-vuruyor_179523.html",
+    "description": "Apple’ın uygun fiyatlı MacBook Neo hamlesine Microsoft’tan hızlı yanıt geldi. Yeni öğrenci kampanyası, indirimli Windows laptoplarla birlikte 1 yıl ücretsiz Microsoft 365 ve Game Pass sunuyor.",
+    "image": "https://i.chip.com.tr/storage/files/images/2026/04/16/macbook-neo-sonrasi-ilk-tepki-microsoft-fiyat-degil-paketle-vuruyor-miqh.jpg",
+    "name": "MacBook Neo sonrası ilk tepki: Microsoft fiyat değil paketle vuruyor",
+    "source": "Chip Online",
+    "date": "2026-04-16T14:00:57.082Z"
+  }
+]

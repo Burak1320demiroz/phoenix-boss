@@ -1,0 +1,74 @@
+[
+  {
+    "key": "0",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/okul-saldirilari-sonrasi-operasyonlar-suruyor-emniyet-son-verileri-acikladi-127-kisiye-gozalti-1115-url-adresine-erisim-engeli-2495763",
+    "description": "Emniyet Genel Müdürlüğü, Kahramanmaraş ve Şanlıurfa'da okullara yönelik saldırıların ardından 'halkı yanıltıcı nitelikte paylaşımlar yapan, tehdit ve eylem' çağrısında bulunan 127 kişinin gözaltına alındığını, 1115 internet adresinin ise erişime kapatıldığını açıkladı.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/74c3945e-4b44-41cc-9eda-d8b985e1ad1e.jpg",
+    "name": "Okul saldırıları sonrası operasyonlar sürüyor... Emniyet son verileri açıkladı: 127 kişiye gözaltı, 1115 URL adresine erişim engeli!",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:50.171Z"
+  },
+  {
+    "key": "1",
+    "url": "https://www.cumhuriyet.com.tr/yasam/ayrilik-sonrasi-yara-bandi-iliskisi-uzmanlar-en-buyuk-psikolojik-hatayi-acikladi-2495764",
+    "description": "'Yara bandı ilişkisi' olarak tanımlanan bu sürecin tek başına bir sorun olmadığını belirten psikologlar, yapılan tek bir hatanın duygusal yıkımı büyütebileceği konusunda uyarıyor.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8d730a27-bcd1-49f0-9ef7-7dcc46cd329d.jpg",
+    "name": "Ayrılık sonrası 'yara bandı' ilişkisi: Uzmanlar en büyük psikolojik hatayı açıkladı",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:48.840Z"
+  },
+  {
+    "key": "2",
+    "url": "https://www.cumhuriyet.com.tr/dunya/israil-basini-yazdi-israil-lubnan-dan-ateskes-hazirligi-2495765",
+    "description": "İsrail'in Haaretz gazetesi, İsrail ordusunun bu akşam saat 19:00 sonrasında Lübnan'da yürürlüğe girecek ateşkes için hazırlık yaptığını iddia etti.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/cd645166-b14b-444d-ac47-185d637aa0e6.jpg",
+    "name": "İsrail basını yazdı: İsrail-Lübnan’dan ateşkes hazırlığı",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:47.403Z"
+  },
+  {
+    "key": "3",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/chp-li-atabay-cumhur-ittifaki-cocuklari-degil-faizi-koruyor-2495766",
+    "description": "CHP Genel Başkan Yardımcısı Güldem Atabay, Hazine ve Maliye Bakanlığı’nın açıkladığı merkezi bütçe verilerine ilişkin, 'Ödediğimiz her 100 lira verginin 20 lirası faize giderken, çocukların korunmasına ayrılan pay binde 3’te kalıyor. Bu tablo, Cumhur İttifakı’nın tercihinin milletin çocukları değil, faiz ve sıcak para olduğunu açıkça gösteriyor. Yani Cumhur İttifakı çocukları değil, faizi koruyor' dedi.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/8f2ff90f-f0a8-4937-b859-9f5613a3134a.jpg",
+    "name": "CHP’li Atabay: 'Cumhur İttifakı çocukları değil, faizi koruyor'",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:46.020Z"
+  },
+  {
+    "key": "4",
+    "url": "https://www.cumhuriyet.com.tr/astroloji/her-sorunu-fazlasiyla-dusunup-kafasinda-buyuten-5-burc-bu-burclar-basit-konulari-bile-icinden-cikilmaz-hale-getirebiliyor-2495767",
+    "description": "Bazı burçlar vardır ki en küçük problemi bile zihninde büyütür, detaylandırır ve içinden çıkılması zor bir hale getirir. Peki, basit konuları bile içinden çıkılmaz hale getirebilen kişiler hangi burçlardan çıkıyor? İşte, her sorunu kafasında fazlasıyla büyüten 5 burç...",
+    "image": "https://media.cumhuriyet.com.tr/Archive/193146a2-b5ab-4bf0-9642-f3da3daef055.jpg",
+    "name": "Her sorunu fazlasıyla düşünüp kafasında büyüten 5 burç: Bu burçlar basit konuları bile içinden çıkılmaz hale getirebiliyor...",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:44.546Z"
+  },
+  {
+    "key": "5",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/time-dergisi-en-etkili-100-kisiyi-secti-2495768",
+    "description": "Dünyanın en prestijli yayınlarından Time dergisi, 2026 yılının en etkili 100 ismini seçti. ABD Başkanı Donald Trump’tan Mr. Beast’e kadar pek çok ismin yer aldığı listenin 'liderler' kategorisine giren tek Türk, Uluslararası Enerji Ajansı Başkanı Fatih Birol oldu.",
+    "image": "https://media.cumhuriyet.com.tr/Archive/99790d8c-4f4f-4161-b8e3-94fe4d8b59f2.jpg",
+    "name": "Time dergisi en etkili 100 kişiyi seçti",
+    "source": "Cumhuriyet",
+    "date": "2026-04-16T14:42:43.080Z"
+  },
+  {
+    "key": "6",
+    "url": "https://www.karar.com/guncel-haberler/gergerlioglundan-narin-guran-dosyasi-icin-bakan-gurleke-soru-onergesi-2042779",
+    "description": "DEM Parti Kocaeli Milletvekili Ömer Faruk Gergerlioğlu, kamuoyunda geniş yankı uyandıran Narin Güran dosyasındaki soruşturma ve kovuşturma süreçlerine ilişkin iddiaları Türkiye Büyük Millet Meclisi gündemine taşıdı. Gergerlioğlu, Adalet Bakanı Akın Gürlek tarafından yazılı olarak yanıtlanması istemiyle TBMM Başkanlığı’na soru önergesi sundu.",
+    "image": "https://cdn.karar.com/news/1906522.jpg",
+    "name": "Gergerlioğlu’ndan Narin Güran dosyası için Bakan Gürlek'e soru önergesi",
+    "source": "KARAR",
+    "date": "2026-04-16T14:42:18.399Z"
+  },
+  {
+    "key": "7",
+    "url": "https://www.karar.com/guncel-haberler/emniyetin-gizli-verileri-ifsa-edildi-chpli-kilinc-skandali-meclis-2042780",
+    "description": "CHP İstanbul Milletvekili Yüksel Mansur Kılınç, Emniyet’in Kaçakçılık ve Organize Suçlarla Mücadele Başkanlığı’na ait gizli verilerin sosyal medyada takipçisi olmayan bir hesap üzerinden paylaşıldığını ortaya çıkardı. Söz konusu paylaşımı Türkiye Büyük Millet Meclisi gündemine taşıyan Kılınç, Ankara’daki suç örgütlerine ilişkin kritik bilgilerin ifşa edildiği olayda, İçişleri Bakanı Çiftçi’ye verilerin nasıl sızdırıldığını ve neden müdahale edilmediğini sordu.",
+    "image": "https://cdn.karar.com/news/1906513.jpg",
+    "name": "Emniyet’in gizli verileri ifşa edildi: CHP'li Kılınç skandalı Meclis gündemine taşıdı",
+    "source": "KARAR",
+    "date": "2026-04-16T14:42:17.132Z"
+  }
+]

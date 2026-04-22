@@ -1,0 +1,8 @@
+{
+  "country": "Turkey",
+  "gasoline": "1.402",
+  "currency": "usd",
+  "diesel": "1.617",
+  "lpg": "0.729",
+  "unit": "liter"
+}

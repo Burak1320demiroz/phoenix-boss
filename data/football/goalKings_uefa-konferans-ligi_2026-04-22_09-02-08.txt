@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mikael Ishak",
+    "goals": "8"
+  },
+  {
+    "name": "Marius Mouandilmadji",
+    "goals": "8"
+  },
+  {
+    "name": "Ismaïla Sarr",
+    "goals": "7"
+  },
+  {
+    "name": "Sven Mijnans",
+    "goals": "6"
+  },
+  {
+    "name": "Toni Fruk",
+    "goals": "5"
+  },
+  {
+    "name": "Nardin Mulahusejnovic",
+    "goals": "5"
+  },
+  {
+    "name": "Franko Kovacevic",
+    "goals": "5"
+  },
+  {
+    "name": "Isak Jensen",
+    "goals": "5"
+  },
+  {
+    "name": "Daniel Adu-Adjei",
+    "goals": "4"
+  },
+  {
+    "name": "Martial Godo",
+    "goals": "4"
+  }
+]
